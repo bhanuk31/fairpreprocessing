@@ -1,2 +1,2 @@
 # fairpreprocessing
-Fairness paper NIPS 2017
+Implementation of Learning Fair Representations algorithm for the Adult dataset.
